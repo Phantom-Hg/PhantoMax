@@ -1,0 +1,78 @@
+body{
+
+color:white;
+background:red;
+margin: 0px;
+font-family: "Gothic A1", sans-serif;
+
+}
+
+
+header {
+    
+    border-bottom: solid 2px rgb(5, 33, 70);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(5, 33, 70);
+   
+   
+}
+
+
+/* código omitido */
+
+section {
+    background: rgb(4, 0, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1{
+font-size: 40px;
+
+}
+
+p{
+font-size: 20px;
+
+}
+
+img{
+
+    height: 200px;
+
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+
+
+.chamada {
+    background: rgb(0, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+
